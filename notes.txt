@@ -1,0 +1,9 @@
+1) Array.from => bt3ml array mn ay haga 
+
+example : var sliderImages = Array.from(document.querySelectorAll(".slider-container img"));
+
+2) setAttribute("id","pag-id")
+
+3) write text on element : paginationItem.appendChild(document.createTextNode(i));
+
+4) parseInt()  =>  convert string into integer
